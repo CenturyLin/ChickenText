@@ -1,6 +1,6 @@
 # ChickenText
 
 
-![lava]([.\lava.gif](https://github.com/d0d27b82-4852-41d0-b64e-1d3330fe122f)https://github.com/d0d27b82-4852-41d0-b64e-1d3330fe122f)
+![lava]([.\lava.gif](https://github.com/CenturyLin/ChickenText/blob/e184e3e1323f13a87f58064e4711916d3022aecb/lava.gif)
 
 https://zhuanlan.zhihu.com/p/641935633
